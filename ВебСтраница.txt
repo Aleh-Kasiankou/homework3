@@ -3,7 +3,7 @@
 </head>
 <body>
   <div class="header-wrapper">
-	<h1>Дорбо поожаловать на главную страниуу!</h1>
+	<h1>Добро пожаловать на главную страницу!</h1>
   </div>
   
   <div class="main-content-wrapper">
